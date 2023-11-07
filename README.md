@@ -1,3 +1,2 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# "Application meteo simple avec  HTML, CSS et  JavaScript"
 
-## Overview of Weather App
