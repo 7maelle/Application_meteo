@@ -42,7 +42,7 @@ search.addEventListener('click', () => {
                     break;
 
                 case 'Snow':
-                    image.src = 'image/snow.png';
+                    image.src = 'image/snowy.png';
                     alert('ALEEEERTE IL NEIGE');
                     break;
 
